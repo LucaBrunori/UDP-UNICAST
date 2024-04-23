@@ -1,4 +1,7 @@
 # UDPDatetime
+<p align="center" style="font-family: monospace">Luca Brunori<a href="https://github.com/LucaBrunori">@LucaB</a></p>
+<p align="center" style="font-family: monospace">Corso TPSIT-<a href="https://www.avoltapg.edu.it/">ITTS A. Volta (PG)</a></p>
+<p align="center" style="font-family: monospace">Professoresse: <br> Monica Ciuchetti e Ilaria Fioroni</p>
 
 ## Descrizione
 Applicazione Java che utilizza le socket per implementare una comunicazione UDP unicast tra Client e Server per sincronizzare la data e l'ora.
